@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
+streamlit = "*"
+langchain = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
