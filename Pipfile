@@ -9,6 +9,7 @@ streamlit = "*"
 langchain = "*"
 langchain-openai = "*"
 st-chat-message = "*"
+ctransformers = "*"
 
 [dev-packages]
 
